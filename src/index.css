@@ -1,6 +1,14 @@
 body {
-  font: 14px "Century Gothic", Futura, sans-serif;
+  font: 18px "Century Gothic", Futura, sans-serif;
   margin: 20px;
+  background: #f7db3e;
+}
+
+#root {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 ol, ul {
@@ -18,18 +26,19 @@ ol, ul {
 }
 
 .square {
-  background: #fff;
+  cursor: pointer;
+  background: #ffffff;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
   font-weight: bold;
-  line-height: 34px;
-  height: 34px;
+  line-height: 100px;
+  height: 100px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 100px;
 }
 
 .square:focus {
