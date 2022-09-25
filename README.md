@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## TicTacToe
 
-Using react sript to build an interactive game.
+Using React to build an interactive game.
